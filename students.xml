@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+<student>
+<name>Дмитрий Диманов</name>
+<grade>4.8</grade>
+</student>
+<student>
+<name>Ирина Ирова</name>
+<grade>5.0</grade>
+</student>
+<student>
+<name>Владислав Владонов</name>
+<grade>4.4</grade>
+</student>
+</students>
